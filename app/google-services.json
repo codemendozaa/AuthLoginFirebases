@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226263180514",
+    "firebase_url": "https://authloginfirebases.firebaseio.com",
+    "project_id": "authloginfirebases",
+    "storage_bucket": "authloginfirebases.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226263180514:android:8d68ffc717f19cc8",
+        "android_client_info": {
+          "package_name": "com.example.authloginfirebases"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226263180514-aevo9ietfi0j5tp12qk1r0p0l5r6ugvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authloginfirebases",
+            "certificate_hash": "7e8407169283ddd73316b61024e6b246f17d085c"
+          }
+        },
+        {
+          "client_id": "226263180514-6ak90q485nfkufbrm43hhqgabv1rjmp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKO7sCtKSYgNj3dr1NIg-CFFAbM46uYtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226263180514-6ak90q485nfkufbrm43hhqgabv1rjmp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
