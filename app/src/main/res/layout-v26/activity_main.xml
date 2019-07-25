@@ -31,14 +31,14 @@
         <!-- user Label -->
 
         <AutoCompleteTextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:layout_marginBottom="8dp"
-            android:text="Email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Email"
 
 
-    />
+        />
         <AutoCompleteTextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -56,12 +56,12 @@
                 android:layout_marginTop="8dp"
                 android:text="Password"
                 android:layout_marginBottom="8dp"/>
-            <AutoCompleteTextView
-                    android:id="@+id/input_password"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="textPassword"
-                    android:hint="Password"/>
+        <AutoCompleteTextView
+                android:id="@+id/input_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:hint="Password"/>
 
         <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/btn_login"
@@ -84,4 +84,4 @@
 
     </LinearLayout>
 
-    </androidx.core.widget.NestedScrollView>
+</androidx.core.widget.NestedScrollView>
