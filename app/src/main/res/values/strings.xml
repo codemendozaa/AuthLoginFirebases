@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AuthLoginFirebases</string>
+    <string name="app_icon">Description</string>
+    <string name="username">username</string>
+    <string name="start">start</string>
+    <string name="realtime_trader">Login Auth Android-Firebase </string>
+    <string name="error_while_connecting_to_the_server">Error al conectar con el servidor</string>
 </resources>
